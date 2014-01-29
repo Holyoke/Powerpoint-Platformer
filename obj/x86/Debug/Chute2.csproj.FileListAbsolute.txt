@@ -1,0 +1,513 @@
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Temp.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Temp.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioIdle.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioJump.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioLookingUp.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Block.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Block.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioIdle.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioJump.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioLookingUp.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Block.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Block.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide10.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide11.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide12.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide13.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide14.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide15.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide16.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide17.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide18.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide19.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide20.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide21.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide22.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide23.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide24.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide25.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide26.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide27.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide28.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide29.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide30.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide31.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide32.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide33.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide34.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide35.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide5.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide6.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide7.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide8.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide9.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioIdle.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioJump.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioLookingUp.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Block.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Block.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide10.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide11.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide12.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide13.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide14.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide15.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide16.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide17.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide18.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide19.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide20.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide21.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide22.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide23.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide24.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide25.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide26.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide27.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide28.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide29.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide30.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide31.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide32.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide33.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide34.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide35.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide5.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide6.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide7.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide8.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide9.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide36.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.wmv
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide36.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.wmv
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\LeftWhoosh.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RightWhoosh.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\coin.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\LeftWhoosh.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RightWhoosh.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\coin.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide37.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide38.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide39.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide40.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide41.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide42.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide43.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide44.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide45.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide46.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide47.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide48.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide49.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide50.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide51.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide52.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide53.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide54.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide55.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide56.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide57.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide58.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide59.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide60.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide37.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide38.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide39.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide40.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide41.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide42.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide43.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide44.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide45.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide46.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide47.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide48.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide49.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide50.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide51.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide52.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide53.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide54.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide55.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide56.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide57.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide58.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide59.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide60.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide61.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\GameOver.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\GameOver.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioFall.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaWalk.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaIdle.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Idle.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Walk.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaIdle.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaWalk.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Hyoshigi.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Otsuzumi.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Egg.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Kick.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Snare.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player2Jump.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player3Jump.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player4Jump.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\PlayerJump.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide61.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioFall.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaWalk.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaIdle.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Idle.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Walk.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaIdle.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaWalk.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\GameOver.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Hyoshigi.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Otsuzumi.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Egg.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Kick.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Snare.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player2Jump.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player3Jump.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player4Jump.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\PlayerJump.xnb
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\GameOver.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.wma
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe.manifest
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.application
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe.manifest
+C:\Users\Jason\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.application
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe.manifest
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.application
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe.manifest
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.application
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioIdle.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioJump.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioLookingUp.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Block.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Block.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide10.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide11.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide12.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide13.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide14.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide15.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide16.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide17.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide18.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide19.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide20.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide21.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide22.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide23.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide24.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide25.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide26.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide27.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide28.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide29.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide30.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide31.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide32.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide33.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide34.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide35.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide36.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide37.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide38.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide39.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide40.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide41.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide42.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide43.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide44.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide45.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide46.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide47.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide48.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide49.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide5.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide50.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide51.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide52.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide53.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide54.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide55.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide56.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide57.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide58.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide59.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide6.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide60.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide61.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide7.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide8.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide9.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioFall.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaWalk.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaIdle.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Idle.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Walk.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaIdle.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaWalk.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\GameOver.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\LeftWhoosh.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RightWhoosh.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\coin.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Hyoshigi.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Otsuzumi.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Egg.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Kick.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Snare.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player2Jump.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player3Jump.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player4Jump.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\PlayerJump.xnb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\GameOver.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.wma
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.wmv
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe.manifest
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.application
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe.manifest
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.application
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\FAMILY2\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioIdle.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioJump.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioLookingUp.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Block.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Block.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide10.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide11.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide12.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide13.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide14.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide15.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide16.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide17.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide18.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide19.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide20.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide21.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide22.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide23.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide24.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide25.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide26.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide27.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide28.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide29.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide30.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide31.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide32.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide33.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide34.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide35.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide36.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide37.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide38.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide39.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide40.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide41.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide42.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide43.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide44.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide45.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide46.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide47.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide48.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide49.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide5.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide50.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide51.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide52.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide53.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide54.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide55.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide56.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide57.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide58.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide59.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide6.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide60.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide61.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide7.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide8.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide9.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioFall.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaWalk.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\KoopaIdle.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Idle.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Koopa2Walk.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaIdle.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\GoombaWalk.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\LeftWhoosh.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RightWhoosh.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\coin.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Hyoshigi.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Otsuzumi.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Egg.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Kick.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Snare.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player2Jump.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player3Jump.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Player4Jump.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\PlayerJump.xnb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Ryu.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\RKRyu.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusic.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicPhaser.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicSynths.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicTheremin.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\AsteroidMusicDrums.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\Dead.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBellFin.wma
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.wmv
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe.manifest
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.application
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe.manifest
+C:\Users\jason\Dropbox\Career\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.application

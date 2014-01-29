@@ -1,0 +1,88 @@
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Temp.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Temp.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Balloon.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Temp.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide1.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide2.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide3.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide4.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.exe
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Chute2.pdb
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.exe
+C:\Users\JASONE\Documents\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\obj\x86\Debug\Chute2.pdb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioIdle.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioJump.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioLookingUp.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Block.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Block.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioWalking.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioIdle.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioJump.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\MarioLookingUp.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Block.xnb
+C:\Users\Nezzed\Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Textures\Block.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide10.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide11.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide12.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide13.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide14.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide15.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide16.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide17.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide18.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide19.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide20.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide21.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide22.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide23.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide24.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide25.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide26.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide27.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide28.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide29.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide30.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide31.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide32.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide33.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide34.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide35.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide5.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide6.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide7.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide8.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide9.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\DaisyBell.wma
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\JumpEffect1.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\JumpEffect2.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Audio\JumpEffect3.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Slide36.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.xnb
+C:\Users\Public\My Dropbox\Coolege\Senor Projet\Chute2\Chute2\Chute2\bin\x86\Debug\Content\Slides\Video.wmv
